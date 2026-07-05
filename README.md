@@ -30,14 +30,16 @@ and occasionally wear the DevOps / SRE hat.
 
 ### Side projects
 
-- [vkadstool.ru](https://vkadstool.ru) — SaaS that automates VK Ads: monitors campaigns,
-  pauses underperforming ones, and sends Telegram alerts.
+- [trade-lab](https://trade-lab.gistrec.cloud) — Python research framework
+  for backtesting and paper-trading market strategies
+  ([source](https://github.com/gistrec/trade-lab)).
 - [askads.ru](https://askads.ru) — AI assistant for ad accounts: connects to Yandex Direct
   and VK Ads and answers questions about campaigns in plain language.
-- [trade-lab](https://github.com/gistrec/trade-lab) — Python research framework
-  for backtesting and paper-trading market strategies.
-- [ClearTranscriptBot](https://github.com/gistrec/ClearTranscriptBot) — Telegram & Max bot
-  for audio/video transcription with summaries and long-file support.
+- [vkadstool.ru](https://vkadstool.ru) — SaaS that automates VK Ads: monitors campaigns,
+  pauses underperforming ones, and sends Telegram alerts.
+- [clear-transcript-bot.ru](https://clear-transcript-bot.ru) — Telegram & Max bot
+  for audio/video transcription with summaries and long-file support
+  ([source](https://github.com/gistrec/ClearTranscriptBot)).
 
 ### Toolbox
 
