@@ -28,6 +28,17 @@ and occasionally wear the DevOps / SRE hat.
   into a honeypot: the first probe of `/.env` or `/.git` gets the scanner banned
   on all ports via fail2ban + nftables.
 
+### Side projects
+
+- [vkadstool.ru](https://vkadstool.ru) — SaaS that automates VK Ads: monitors campaigns,
+  pauses underperforming ones, and sends Telegram alerts.
+- [askads.ru](https://askads.ru) — AI assistant for ad accounts: connects to Yandex Direct
+  and VK Ads and answers questions about campaigns in plain language.
+- [trade-lab](https://github.com/gistrec/trade-lab) — Python research framework
+  for backtesting and paper-trading market strategies.
+- [ClearTranscriptBot](https://github.com/gistrec/ClearTranscriptBot) — Telegram & Max bot
+  for audio/video transcription with summaries and long-file support.
+
 ### Toolbox
 
-C++17 · C · Python · Bash · Linux · nginx · nftables / fail2ban · Ansible · Terraform · Docker · AWS · ClickHouse
+C++17 · C · Python · Bash · Linux · nginx · nftables / fail2ban · Netdata · Ansible · Terraform · Docker · AWS · ClickHouse
